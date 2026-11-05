@@ -1,0 +1,136 @@
+body {
+    text-align: center;
+    
+    font-family: "Ubuntu",sans-serif;
+    background: url(images/back3.jpg);
+
+}
+
+.box1{
+    
+    width: 175px;
+    height: 25px;
+    border: 2px rgb(164, 164, 164) double;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px;
+    padding: 4px;
+    background-color: rgb(221, 218, 218);
+    font-family: verdana;
+    box-shadow: inset grey 0px 0px 5px;
+    
+    
+}
+
+.box1:hover{
+    
+    width: 175px;
+    height: 25px;
+    border: 2px dark whitesmoke groove;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px;
+    padding: 4px;
+    background-color: whitesmoke;
+    font-family: verdana;
+    box-shadow: inset rgb(197, 195, 195) 0px 0px 5px;
+    
+}
+
+#fname{
+    margin-right: 20px;
+    height: 25px;
+    width: 200px;
+}
+
+#lname{
+    height: 25px;
+    width: 200px;
+}
+
+#email{
+    width: 425px;
+}
+
+#Password{
+    width: 425px;
+}
+
+#number{
+    width: 425px;
+}
+
+.boarding{
+    text-align: center;
+    width: 425px;
+    height: 35px;
+    border: 2px lightblue groove;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px;
+    font-family: verdana; 
+    font-size: 14px;
+    background-color: rgb(221, 218, 218);
+
+}
+
+.boarding:hover{
+
+    width: 425px;
+    height: 35px;
+    border: 2px lightblue groove;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px;
+    font-family: verdana; 
+    font-size: 14px;
+    background-color: whitesmoke;
+}
+
+.destination{
+    text-align: center;
+
+    width: 425px;
+    height: 35px;
+    border: 2px lightblue groove;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px;
+    font-family: verdana; 
+    font-size: 14px;
+    background-color: rgb(221, 218, 218);
+}
+
+.destination:hover{
+    text-align: center;
+
+    width: 425px;
+    height: 35px;
+    border: 2px lightblue groove;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px;
+    font-family: verdana; 
+    font-size: 14px;
+    background-color: whitesmoke;
+}
+
+Button {
+    text-align: center;
+    background-color: tomato;
+    width: 65px;
+    height: 24px;
+    font-family: verdana;
+    border-radius: 5px;
+    box-shadow: 0px 0px 6px;
+    border-color: tomato ;
+    text-align: left;
+}
+
+Button:hover{
+    text-align: center;
+    background-color: blue;
+    width: 65px;
+    height: 24px;
+    font-family: verdana;
+    border-radius: 5px;
+    box-shadow: 0px 0px 6px;
+    border-color: blue  ;
+    text-align: left;
+
+
+}
